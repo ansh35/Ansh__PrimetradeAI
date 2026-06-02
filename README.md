@@ -4,6 +4,13 @@
 
 ---
 
+### 🌐 Live Deployment
+- **✨ Live Application**: **[taskflow.up.railway.app](https://anshprimetradeai-production.up.railway.app)**
+- **📡 Backend API**: **[taskflow-api.up.railway.app](https://content-quietude-production.up.railway.app/api)**
+- **📖 API Documentation**: **[Swagger UI Docs](https://content-quietude-production.up.railway.app/api-docs)**
+
+---
+
 ## ⚡ Quick Start
 
 ### 1. Database Setup
@@ -148,8 +155,9 @@ TaskFlow/
 
 ## 👤 Maintainer & Links
 
-- **created by**: [Ansh Khare](https://github.com/ansh35)
-- **Live Deployment**: [Live Link](https://etharaaiassigement-production.up.railway.app/login)
+- **Created by**: [Ansh Khare](https://github.com/ansh35)
+- **Live Deployment**: **[TaskFlow Production](https://anshprimetradeai-production.up.railway.app)**
+- **API Documentation**: **[Interactive Swagger Docs](https://content-quietude-production.up.railway.app/api-docs)**
 
 
 ---

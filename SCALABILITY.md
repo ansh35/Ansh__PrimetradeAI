@@ -1,5 +1,9 @@
 # 📈 Scalability Notes — TaskFlow API
 
+### 🔗 Public Access
+- **Production URL**: **[TaskFlow Live](https://anshprimetradeai-production.up.railway.app)**
+- **API Endpoint**: **[TaskFlow API](https://content-quietude-production.up.railway.app/api)**
+
 ## Current Architecture
 TaskFlow is built as a monolithic Express + MongoDB application — ideal for rapid development and current scale. The architecture is designed to evolve gracefully into a distributed system as demand grows.
 
