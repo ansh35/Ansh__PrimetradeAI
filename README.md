@@ -5,8 +5,8 @@
 ---
 
 ### 🌐 Live Deployment
-- **✨ Live Application**: **[taskflow.up.railway.app](https://anshprimetradeai-production.up.railway.app)**
-- **📡 Backend API**: **[taskflow-api.up.railway.app](https://content-quietude-production.up.railway.app/api)**
+- **✨ Live Application**: **[TASKFLOW](https://anshprimetradeai-production.up.railway.app)**
+- **📡 Backend API**: **[TASKFLOW-API](https://content-quietude-production.up.railway.app/api)**
 - **📖 API Documentation**: **[Swagger UI Docs](https://content-quietude-production.up.railway.app/api-docs)**
 - **📈 Scalability Report**: **[View SCALABILITY.md](./SCALABILITY.md)**
 
@@ -15,7 +15,7 @@
 ## 📸 Project Previews
 
 > [!IMPORTANT]
-> **View High-Resolution Screenshots**: [Click here to view the Project Gallery on Google Drive](https://drive.google.com/drive/folders/1kxCxDQxGYts0BJWBex3p7VYTQ5w0FZ5S?usp=sharing)
+> **View High-Resolution UI**: [Click here to view the Project Gallery on Google Drive](https://drive.google.com/drive/folders/1kxCxDQxGYts0BJWBex3p7VYTQ5w0FZ5S?usp=sharing)
 
 ---
 
