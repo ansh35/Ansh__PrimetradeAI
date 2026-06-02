@@ -8,6 +8,17 @@
 - **✨ Live Application**: **[taskflow.up.railway.app](https://anshprimetradeai-production.up.railway.app)**
 - **📡 Backend API**: **[taskflow-api.up.railway.app](https://content-quietude-production.up.railway.app/api)**
 - **📖 API Documentation**: **[Swagger UI Docs](https://content-quietude-production.up.railway.app/api-docs)**
+- **📈 Scalability Report**: **[View SCALABILITY.md](./SCALABILITY.md)**
+
+---
+
+## 📸 Preview
+
+### 💎 Dashboard Interface
+![Dashboard Preview](file:///C:/Users/anshk/.gemini/antigravity/brain/bee71187-0102-47ee-81f8-f22655e015d1/taskflow_dashboard_1780385130045.png)
+
+### 📖 API Documentation (Swagger)
+![Swagger Preview](file:///C:/Users/anshk/.gemini/antigravity/brain/bee71187-0102-47ee-81f8-f22655e015d1/taskflow_swagger_ui_1780385153821.png)
 
 ---
 
