@@ -48,6 +48,12 @@ app.use('/api/v1', v1Routes);
 // Backward compatibility (optional, but requested to preserve where possible)
 app.use('/api', v1Routes); 
 
+app.get('/api', (req, res) => res.json({
+  success: true,
+  message: 'TaskFlow API is running...',
+  version: '1.0.0'
+}));
+
 app.get('/', (req, res) => res.json({
   success: true,
   message: 'TaskFlow API is running...',

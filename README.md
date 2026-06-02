@@ -15,10 +15,10 @@
 ## 📸 Preview
 
 ### 💎 Dashboard Interface
-![Dashboard Preview](file:///C:/Users/anshk/.gemini/antigravity/brain/bee71187-0102-47ee-81f8-f22655e015d1/taskflow_dashboard_1780385130045.png)
+![Dashboard Preview](C:/Users/anshk/.gemini/antigravity/brain/bee71187-0102-47ee-81f8-f22655e015d1/taskflow_dashboard_1780385130045.png)
 
-### 📖 API Documentation (Swagger)
-![Swagger Preview](file:///C:/Users/anshk/.gemini/antigravity/brain/bee71187-0102-47ee-81f8-f22655e015d1/taskflow_swagger_ui_1780385153821.png)
+> [!TIP]
+> **View All Project Screenshots**: [Google Drive Folder](https://your-google-drive-link-here)
 
 ---
 
