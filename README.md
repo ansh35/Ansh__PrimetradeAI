@@ -12,13 +12,10 @@
 
 ---
 
-## 📸 Preview
+## 📸 Project Previews
 
-### 💎 Dashboard Interface
-![Dashboard Preview](C:/Users/anshk/.gemini/antigravity/brain/bee71187-0102-47ee-81f8-f22655e015d1/taskflow_dashboard_1780385130045.png)
-
-> [!TIP]
-> **View All Project Screenshots**: [Google Drive Folder](https://your-google-drive-link-here)
+> [!IMPORTANT]
+> **View High-Resolution Screenshots**: [Click here to view the Project Gallery on Google Drive](https://drive.google.com/drive/folders/1kxCxDQxGYts0BJWBex3p7VYTQ5w0FZ5S?usp=sharing)
 
 ---
 
